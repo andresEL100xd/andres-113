@@ -1,0 +1,25 @@
+body{
+    background: linear-gradient(to right,#ef0849,#ab05d5);
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Exo 2', sans-serif;
+    text-align: center;
+}
+h1,h2{
+    color: rgb(255, 255, 255);
+}
+input[type=number]{
+    margin: 10px 5px;
+}
+.respuestas{
+    background: linear-gradient(to right,#d5cb05,#ef2708);
+}
+button{
+    background: linear-gradient(to right,#e806a8,#efb508);
+    border-radius:10px;
+    padding:10px;
+    border: 3px solid #a614a8;
+    }
+    h1, img{
+        border: #d5cb05;
+    }
